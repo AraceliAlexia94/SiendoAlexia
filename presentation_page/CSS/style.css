@@ -1,0 +1,57 @@
+body{
+    background-image: url('https://www.teahub.io/photos/full/211-2117513_fondo-de-universo-hd.jpg');
+    background-size: cover;
+    color: antiquewhite;
+}
+
+.encabezado{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.name{
+    font-size: 7rem;
+    font-family: 'Alex Brush', cursive;
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+}
+
+.ale{
+    margin-top: 0rem;
+}
+
+nav{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.yo{
+    text-align: center;
+}
+
+.collage{
+    width: 40rem;
+    height: 40rem;
+}
+.menu{
+    background-color:rgb(18, 18, 32);
+    display: flex;
+    justify-content:space-between;
+    padding: 1rem;
+    width:auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: none;
+}
+
+.menu li:hover{
+    background-color: rgb(43, 205, 226);
+}
